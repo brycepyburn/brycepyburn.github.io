@@ -4,7 +4,9 @@ I am a second-year Mathematics student at Georgia Tech purusing a concentration 
 
 - [View My Resume](resume.pdf)    
 - [LinkedIn](https://www.linkedin.com/in/brycepyburn/)  
-- [GitHub](https://brycepyburn.github.io/)  
+- [GitHub](https://brycepyburn.github.io/)
+
+
 ## Projects  
 Here are a few of my completed projects.  
 ### Deriving and Validating a Metric to Reduce Stochastic Noise Present in Collegiate Basketball Performance Analytic Methods (2024)  
