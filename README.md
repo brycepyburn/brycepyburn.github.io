@@ -9,8 +9,9 @@ I am a second-year Mathematics student at Georgia Tech purusing a concentration 
 
 ## Projects  
 Here are a few of my completed projects.  
-* [Deriving and Validating a Metric to Reduce Stochastic Noise Present in Collegiate Basketball Performance Analytic Methods (2024)](https://github.com/brycepyburn/reducing-stochastic-noise)
-* [A Probabilistic Analysis of Rank-Order Ties in a 4-Player Dice Game (2023)](https://github.com/brycepyburn/dice-game-probability)
-* Failed Conjecture Linking Chord Number and Outcome Class in Graph Theoretical Representations of Pursuit Evasion Games (2023)  
+* [Deriving and Validating a Metric to Reduce Stochastic Noise Present in Collegiate Basketball Performance Analytic Methods](https://github.com/brycepyburn/reducing-stochastic-noise)
+* [A Probabilistic Analysis of Rank-Order Ties in a 4-Player Dice Game](https://github.com/brycepyburn/dice-game-probability)
+* [A Probabilistic Analysis of Successful Completion of a "Flip" Game](https://github.com/brycepyburn/flip-game-probability)
+* Failed Conjecture Linking Chord Number and Outcome Class in Graph Theoretical Representations of Pursuit Evasion Games (coming soon)
 <!-- Add in Blackjack, Connect 4, Hearts. Then add in game review features for each -->
 
