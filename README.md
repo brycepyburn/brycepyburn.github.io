@@ -20,7 +20,7 @@ I am a second-year Mathematics student at Georgia Tech purusing a concentration 
 <!-- Add in Connect 4, Hearts. Then add in game review features for each -->
 
 ## Interests
-* ### Strategy & Logic
+* Strategy & Logic
   * Favorite Board Games: Dominion (Prosperity), Stratego, Faraway, Settlers of Catan (Cities & Knights), 7 Wonders, Framework
   * Favorite Trick-Taking Games: Hearts, Spades, Briscola, Scopa
   * Chess Puzzles (top 0.7% on Chess.com), Go puzzles, Logic puzzles/crosswords
