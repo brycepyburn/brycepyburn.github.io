@@ -28,9 +28,9 @@ I am a second-year Mathematics student at Georgia Tech purusing a concentration 
   * Research Interests: Combinatorial Game Theory, Probability Theory, Game Theory
   * Favorite Courses: ECON 4180 (Game Theory), ChBE 2100 (Chemical Process Principles)
   * Reading Topics: Behavioral Economics (e.g. _The Drunkard's Walk, Predictably Irrational_), Theological Philosophy (e.g. _Mere Christianity, Pensées_), Sports Analytics (e.g. _Basketball Analytics, Moneyball_) 
-* Fitness & Nutrition, Sports Fan
+* Sports Fan
   * Atlanta Falcons / Hawks / Braves
   * Georgia Tech Athletics (former Men's Basketball Student Manager)
   * Intramural ultimate frisbee, basketball, pickleball
-  * Volunteer youth basketball coach
+  * Volunteer youth basketball & flag football coach
     
