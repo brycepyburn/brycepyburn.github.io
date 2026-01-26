@@ -23,7 +23,7 @@ I am a second-year Mathematics student at Georgia Tech purusing a concentration 
 * Strategy & Logic
   * Favorite Board Games: Dominion (Prosperity), Stratego, Faraway, Settlers of Catan (Cities & Knights), 7 Wonders, Framework
   * Favorite Trick-Taking Games: Hearts, Spades, Briscola, Scopa
-  * Chess Puzzles (top 0.7% on Chess.com), Go puzzles, Logic puzzles/crosswords
+  * Chess Puzzles (top 0.5% on Chess.com), Go puzzles, Logic puzzles/crosswords
 * Academics
   * Research Interests: Combinatorial Game Theory, Probability Theory, Game Theory
   * Favorite Courses: ECON 4180 (Game Theory), ChBE 2100 (Chemical Process Principles)
