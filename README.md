@@ -15,7 +15,7 @@ I am a second-year Mathematics student at Georgia Tech purusing a concentration 
   * Utilized Monte Carlo simulation to approximate probability.
 * [Bayesian Blackjack Engine](https://github.com/brycepyburn/python-blackjack-engine)
   * Built a one-step look-ahead policy heuristic to achieve top engine-level win rates at reduced computational load.
-* [Failed Conjecture Linking Chord Number and Outcome Class in Graph Theoretical Representations of Pursuit Evasion Games (coming soon)]
+* [Failed Conjecture Linking Chord Number and Outcome Class in Graph Theoretical Representations of Pursuit Evasion Games] (coming soon)
   * Collaboration with former Graph Theory professor. Disproof via counterexample.
 <!-- Add in Connect 4, Hearts. Then add in game review features for each -->
 
